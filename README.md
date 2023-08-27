@@ -1,3 +1,13 @@
+## Ho'oponopono 🌸
+
+Esse é um projeto pessoal super simples, um contador para facilitar a prática de Ho'oponopono desenvolvido em React Native.
+
+![1](https://github.com/alinecarvalhopro/Hooponopono/assets/118927052/373ec4c9-6714-441b-bf66-6480e3a0552f)
+![2](https://github.com/alinecarvalhopro/Hooponopono/assets/118927052/210c0508-87c9-4fd6-b84e-efb97321472f)
+![3](https://github.com/alinecarvalhopro/Hooponopono/assets/118927052/48dab88a-0925-4e28-8a32-053280b0e489)
+![4](https://github.com/alinecarvalhopro/Hooponopono/assets/118927052/2ba286c6-a143-4dff-9788-271f9630a314)
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
