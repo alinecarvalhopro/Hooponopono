@@ -11,7 +11,7 @@ const App = () => {
   const [count, setCount] = useState(0);
 
   const handleCount = () => {
-    if (count <= 108) setCount(count + 1);
+    if (count < 108) setCount(count + 1);
   };
 
   const clearCount = () => {
