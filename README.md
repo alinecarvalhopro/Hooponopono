@@ -2,6 +2,8 @@
 
 Esse é um projeto pessoal super simples, um contador para facilitar a prática de Ho'oponopono desenvolvido em React Native.
 
+Link para download na Google Store: https://play.google.com/store/apps/details?id=com.hooponoponoamieapps&pcampaignid=web_share
+
 ![1](https://github.com/alinecarvalhopro/Hooponopono/assets/118927052/373ec4c9-6714-441b-bf66-6480e3a0552f)
 ![2](https://github.com/alinecarvalhopro/Hooponopono/assets/118927052/210c0508-87c9-4fd6-b84e-efb97321472f)
 ![3](https://github.com/alinecarvalhopro/Hooponopono/assets/118927052/48dab88a-0925-4e28-8a32-053280b0e489)
